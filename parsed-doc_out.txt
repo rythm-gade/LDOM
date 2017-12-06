@@ -1,0 +1,25 @@
+66 non-ws chars
+4 document units in document
+Document
+  Header
+    TextSequence
+      SimpleText
+  Paragraph
+    TextSequence
+      SimpleText
+      StyledText
+        SimpleText
+      SimpleText
+      StyledText
+        SimpleText
+      SimpleText
+  Header
+    TextSequence
+      SimpleText
+  Listing
+    TextSequence
+      SimpleText
+    TextSequence
+      SimpleText
+    TextSequence
+      SimpleText
