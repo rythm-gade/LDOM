@@ -1,0 +1,10 @@
+12 non white-space characters in the document text.
+Replacing "Hello" with "He lo".
+11 non white-space characters in the document text.
+Document
+  Paragraph
+    TextSequence
+      SimpleText
+      StyledText
+        SimpleText
+      SimpleText

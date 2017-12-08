@@ -1,0 +1,17 @@
+doc HELLO{
+  h 1 { text{ Part ONE } }
+  p {
+    text{ hello }
+    style bold{ text{ "world!" } }
+    text{ <I } style italic { text { exclaim } } text{ > }
+  }
+  h 3 {
+    text { Part TWO }
+  }
+  ol
+  {
+    { text {'item one'} }
+    { text { item two } }
+    { text { [item three] } }
+  }
+}
